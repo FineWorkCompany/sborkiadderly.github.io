@@ -11,7 +11,25 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 116px auto 60px;
+  margin: 116px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 1293px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-2 {
+  margin: 11px auto 0;
+  padding: 10px 29px 10px 28px;
+}
+
+.u-section-1 .u-btn-3 {
+  margin: 11px auto 25px;
+  padding: 10px 35px;
 }
 
 @media (max-width: 767px) {
