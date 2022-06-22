@@ -37896,16 +37896,27 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-1 {
   font-size: 1rem;
-  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
+  background-image: none;
+}
+
+.u-header .u-nav-3 {
   font-size: 1.25rem;
+}
+
+.u-header .u-nav-4 {
+  background-image: none;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
     margin-top: 20px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 @media (max-width: 991px) {
