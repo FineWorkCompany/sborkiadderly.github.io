@@ -1,10 +1,10 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 650px;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-btn-1 {
   align-self: center;
-  margin: 103px auto 0;
+  margin: 60px auto 0;
   padding: 10px 75px 10px 74px;
 }
 
@@ -43,9 +43,9 @@
 }
 
 .u-section-1 .u-btn-7 {
-  background-image: none;
+  align-self: center;
   margin: 12px auto 0;
-  padding: 10px 63px 10px 61px;
+  padding: 10px 95px 10px 94px;
 }
 
 .u-section-1 .u-btn-8 {
@@ -54,15 +54,9 @@
   padding: 10px 85px;
 }
 
-@media (max-width: 1199px) {
-  .u-section-1 .u-btn-1 {
-    margin-top: 85px;
-  }
-}
-
 @media (max-width: 767px) {
   .u-section-1 .u-btn-7 {
-    padding-right: 62px;
+    padding-left: 93px;
   }
 }
 
@@ -70,6 +64,5 @@
   .u-section-1 .u-btn-7 {
     margin-left: 0;
     margin-right: 0;
-    padding-right: 63px;
   }
 }
