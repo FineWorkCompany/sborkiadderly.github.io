@@ -56,6 +56,7 @@
 
 .u-section-1 .u-btn-1 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  background-image: none;
   margin: 31px auto 0 249px;
   padding: 10px 47px;
 }
