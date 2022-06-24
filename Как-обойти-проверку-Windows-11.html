@@ -101,9 +101,24 @@
           </div>
         </nav>
       </div></header>
-    <section class="u-clearfix u-grey-80 u-section-1" id="sec-e61a">
+    <section class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-clearfix u-grey-80 u-section-1" id="sec-e61a">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h1 class="u-text u-text-default u-text-1">Скоро...</h1>
+        <h1 class="u-text u-text-default u-text-1">Как обойти проверку Windows 11</h1>
+        <p class="u-text u-text-default u-text-2">Что делать если выдает сообщение, что ПК не соответствует требованиям?</p>
+        <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/588.png" alt="" data-image-width="1366" data-image-height="768">
+        <p class="u-text u-text-default u-text-3">Нажимаем в установщике клавиши Shift и F10, и вводим regedit</p>
+        <img class="u-image u-image-default u-preserve-proportions u-image-2" src="images/590.png" alt="" data-image-width="1366" data-image-height="768">
+        <p class="u-text u-text-default u-text-4">Переходим по пути HK_LM\SYSTEM\Setup, и справа создаем в Setup раздел "LabConfig", и создаем там параметры DWORD:</p>
+        <img class="u-image u-image-default u-preserve-proportions u-image-3" src="images/592.png" alt="" data-image-width="1366" data-image-height="768">
+        <p class="u-align-left u-text u-text-5">BypassTPMCheck = значение 1 (обход проверки на наличие TPM второй версии)<br>BypassCPUCheck = значение 1 (обход проверки на поддерживаемый процессор)<br>BypassRAMCheck = значение 1 (обход проверки на количество оперативной памяти, если вам это нужно, то советую не ставить Windows 11<br>BypassSecureBootCheck = значение 1 (обход проверки на UEFI, в котором должна быть включена безопасная загрузка)<br>
+        </p>
+        <p class="u-text u-text-6">Переходим по пути HK_LM\SYSTEM\Setup, и справа создаем в Setup раздел "LabConfig", и создаем там параметры DWORD:</p>
+        <img class="u-image u-image-default u-preserve-proportions u-image-4" src="images/594.png" alt="" data-image-width="1366" data-image-height="768">
+        <p class="u-align-center-xl u-text u-text-7">После всех действий, у вас должно выйти лицензионное соглашение. Работает такой трюк на версиях до 22000.194<br>Windows 11 by Adderly основана на 22000.132, и там проверки нет изначально, но возможно потребуются эти действия.
+        </p>
+        <img class="u-image u-image-default u-preserve-proportions u-image-5" src="images/595.png" alt="" data-image-width="1366" data-image-height="768">
+        <p class="u-text u-text-default u-text-8">Смотрите так же:</p>
+        <a href="Windows-11-сборки.html" data-page-id="54493442" class="u-btn u-btn-round u-button-style u-custom-color-8 u-radius-50 u-btn-1">Сборки Windows 11</a>
       </div>
     </section>
     
