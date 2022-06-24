@@ -31,8 +31,8 @@
 
 .u-section-1 .u-btn-4 {
   background-image: none;
-  margin: -45px auto 0 338px;
-  padding: 10px 40px 10px 38px;
+  margin: -45px auto 0 345px;
+  padding: 10px 36px 10px 35px;
 }
 
 .u-section-1 .u-btn-5 {
@@ -109,28 +109,22 @@
 
 .u-section-1 .u-btn-17 {
   background-image: none;
-  margin: -45px auto 0 429px;
-  padding: 10px 27px 10px 25px;
+  margin: -45px 365px 0 auto;
+  padding: 10px 48px 10px 47px;
 }
 
 .u-section-1 .u-btn-18 {
-  background-image: none;
-  margin: -45px auto 0 587px;
-  padding: 10px 27px 10px 26px;
-}
-
-.u-section-1 .u-btn-19 {
   background-image: none;
   margin: -45px auto 0 786px;
   padding: 10px 55px 10px 53px;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 321px 0 0;
+  margin: 78px 0 0;
 }
 
 .u-section-1 .u-text-3 {
-  margin: 396px 19px 19px;
+  margin: 639px 19px 19px;
 }
 
 @media (max-width: 1199px) {
@@ -143,95 +137,98 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 165px;
+    margin-top: 26px;
     margin-left: auto;
   }
 
   .u-section-1 .u-btn-2 {
-    margin-top: -160px;
+    margin-top: 16px;
     margin-left: auto;
   }
 
   .u-section-1 .u-btn-3 {
-    margin-top: 101px;
+    margin-top: 16px;
     margin-left: auto;
   }
 
   .u-section-1 .u-btn-4 {
-    margin-top: 20px;
-    margin-left: 123px;
+    margin-top: 16px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-5 {
-    margin-left: 367px;
+    margin-top: 16px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-6 {
-    margin-top: 31px;
+    margin-top: 16px;
     margin-left: auto;
   }
 
   .u-section-1 .u-btn-7 {
-    margin-top: 20px;
-    margin-left: 175px;
+    margin-top: 16px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-8 {
-    margin-left: 522px;
+    margin-top: 16px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-9 {
-    margin-top: 31px;
+    margin-top: 16px;
     margin-left: auto;
   }
 
   .u-section-1 .u-btn-10 {
-    margin-top: 20px;
-    margin-left: 191px;
+    margin-top: 16px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-11 {
-    margin-left: 477px;
+    margin-top: 16px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-12 {
-    margin-top: 31px;
+    margin-top: 16px;
     margin-left: auto;
   }
 
   .u-section-1 .u-btn-13 {
-    margin-top: 20px;
-    margin-left: 87px;
+    margin-top: 16px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-14 {
-    margin-left: 305px;
+    margin-top: 16px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-15 {
-    margin-left: 609px;
+    margin-top: 16px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-16 {
-    margin-top: 31px;
+    margin-top: 16px;
     margin-left: auto;
   }
 
   .u-section-1 .u-btn-17 {
-    margin-top: 20px;
-    margin-left: 165px;
+    margin-top: 16px;
+    margin-right: auto;
   }
 
   .u-section-1 .u-btn-18 {
-    margin-left: 332px;
-  }
-
-  .u-section-1 .u-btn-19 {
-    margin-left: 531px;
+    margin-top: 16px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
+    margin-top: 68px;
   }
 
   .u-section-1 .u-text-3 {
@@ -242,109 +239,44 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2009px;
+    min-height: 2072px;
   }
 
-  .u-section-1 .u-btn-4 {
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-btn-5 {
-    margin-top: 20px;
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-btn-7 {
-    margin-left: 69px;
-  }
-
-  .u-section-1 .u-btn-8 {
-    margin-left: 408px;
-  }
-
-  .u-section-1 .u-btn-10 {
-    margin-left: 86px;
-  }
-
-  .u-section-1 .u-btn-11 {
-    margin-left: 362px;
-  }
-
-  .u-section-1 .u-btn-13 {
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-btn-14 {
-    margin-top: 20px;
-    margin-left: 86px;
-  }
-
-  .u-section-1 .u-btn-15 {
-    margin-left: 390px;
-  }
-
-  .u-section-1 .u-btn-17 {
-    margin-left: 59px;
-  }
-
-  .u-section-1 .u-btn-18 {
-    margin-left: 217px;
-  }
-
-  .u-section-1 .u-btn-19 {
-    margin-left: 416px;
+  .u-section-1 .u-btn-1 {
+    margin-top: 16px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 265px;
+    margin-top: 38px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 333px;
+    margin-top: 661px;
     margin-bottom: 19px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-btn-7 {
-    margin-left: auto;
+  .u-section-1 .u-sheet-1 {
+    min-height: 2453px;
   }
 
-  .u-section-1 .u-btn-8 {
-    margin-top: 20px;
-    margin-left: auto;
+  .u-section-1 .u-btn-3 {
+    margin-top: 44px;
+    margin-left: 275px;
   }
 
-  .u-section-1 .u-btn-10 {
-    margin-left: auto;
+  .u-section-1 .u-btn-4 {
+    margin-top: -45px;
+    margin-left: 42px;
   }
 
-  .u-section-1 .u-btn-11 {
-    margin-top: 20px;
-    margin-left: auto;
+  .u-section-1 .u-btn-5 {
+    margin-top: 49px;
   }
 
-  .u-section-1 .u-btn-14 {
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-btn-15 {
-    margin-top: 20px;
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-btn-17 {
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-btn-18 {
-    margin-top: 20px;
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-btn-19 {
-    margin-top: 20px;
-    margin-left: auto;
+  .u-section-1 .u-text-2 {
+    margin-top: 104px;
   }
 }
 
@@ -358,38 +290,52 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 174px;
+    margin-left: 0;
+    margin-right: 0;
     padding-right: 36px;
     padding-left: 35px;
   }
 
   .u-section-1 .u-btn-2 {
-    margin-top: -170px;
     padding: 19px 35px 20px;
   }
 
   .u-section-1 .u-btn-3 {
-    margin-top: 92px;
+    margin-top: 68px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: -97px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-5 {
+    margin-top: 77px;
+    margin-left: 0;
     margin-right: 0;
     padding-right: 83px;
     padding-left: 82px;
   }
 
   .u-section-1 .u-btn-9 {
+    margin-left: 0;
     margin-right: 0;
     padding-right: 63px;
     padding-left: 62px;
   }
 
+  .u-section-1 .u-btn-17 {
+    margin-left: -2px;
+    margin-right: -2px;
+  }
+
   .u-section-1 .u-text-2 {
-    margin-top: 289px;
+    margin-top: 59px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 325px;
-    margin-bottom: 16px;
+    margin-top: 692px;
+    margin-bottom: 60px;
   }
 }
