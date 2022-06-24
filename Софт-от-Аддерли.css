@@ -239,7 +239,11 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2072px;
+    min-height: 2145px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 56px;
   }
 
   .u-section-1 .u-btn-1 {
