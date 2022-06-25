@@ -232,10 +232,6 @@
     width: auto;
     margin-top: 47px;
   }
-
-  .u-section-1 .u-btn-17 {
-    margin-bottom: 12px;
-  }
 }
 
 @media (max-width: 991px) {
@@ -362,6 +358,10 @@
   .u-section-1 .u-btn-10 {
     margin-top: 11px;
   }
+
+  .u-section-1 .u-btn-17 {
+    margin-bottom: 60px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -416,7 +416,6 @@
 
   .u-section-1 .u-btn-9 {
     margin-top: 74px;
-    margin-left: 33px;
   }
 
   .u-section-1 .u-text-3 {
@@ -483,5 +482,6 @@
   .u-section-1 .u-btn-17 {
     margin-left: -1px;
     margin-right: -1px;
+    margin-bottom: 23px;
   }
 }
