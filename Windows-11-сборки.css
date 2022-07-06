@@ -1,5 +1,6 @@
  .u-section-1 {
-  background-image: none;
+  background-image: url("images/img20.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -195,8 +196,8 @@
 
   .u-section-1 .u-text-1 {
     margin-top: 28px;
-    margin-left: 33px;
-    margin-right: 33px;
+    margin-left: 27px;
+    margin-right: 27px;
   }
 
   .u-section-1 .u-text-2 {
