@@ -1,10 +1,10 @@
  .u-section-1 {
   background-image: url("images/img19_1920x1200.jpg");
-  background-position: 50% 50%;
+  background-position: 50% 100%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 623px;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-text-1 {
