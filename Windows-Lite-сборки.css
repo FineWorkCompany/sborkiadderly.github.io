@@ -194,8 +194,7 @@
     margin-right: -1px;
   }
 } .u-section-2 {
-  background-image: url("images/background.png");
-  background-position: 50% 50%;
+  background-image: none;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -216,15 +215,15 @@
   .u-section-2 .u-sheet-1 {
     min-height: 500px;
   }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 60px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
     min-height: 414px;
-  }
-
-  .u-section-2 .u-text-1 {
-    margin-top: 60px;
   }
 }
 
