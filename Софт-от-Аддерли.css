@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1457px;
+  min-height: 1489px;
 }
 
 .u-section-1 .u-text-1 {
@@ -168,17 +168,23 @@
   padding: 10px 57px;
 }
 
+.u-section-1 .u-btn-27 {
+  background-image: none;
+  margin: 11px auto 0;
+  padding: 10px 27px 10px 25px;
+}
+
 .u-section-1 .u-text-2 {
-  margin: 193px 0 0;
+  margin: 137px 0 0;
 }
 
 .u-section-1 .u-text-3 {
-  margin: 382px 19px 25px;
+  margin: 382px 19px 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1929px;
+    min-height: 1910px;
   }
 
   .u-section-1 .u-text-1 {
@@ -317,20 +323,24 @@
     margin-left: 476px;
   }
 
+  .u-section-1 .u-btn-27 {
+    margin-top: 194px;
+  }
+
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: 221px;
+    margin-top: 38px;
   }
 
   .u-section-1 .u-text-3 {
     width: auto;
-    margin: 335px 0 19px;
+    margin: 279px 0 0;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2150px;
+    min-height: 2161px;
   }
 
   .u-section-1 .u-text-1 {
@@ -389,18 +399,23 @@
     margin-left: auto;
   }
 
+  .u-section-1 .u-btn-27 {
+    margin-top: 321px;
+  }
+
   .u-section-1 .u-text-2 {
-    margin-top: 360px;
+    margin-top: 74px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 161px;
+    margin-top: 81px;
+    margin-bottom: 30px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2075px;
+    min-height: 1621px;
   }
 
   .u-section-1 .u-btn-18 {
@@ -428,7 +443,7 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 477px;
+    margin-top: 432px;
   }
 
   .u-section-1 .u-text-3 {
@@ -438,7 +453,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2286px;
+    min-height: 2288px;
   }
 
   .u-section-1 .u-text-1 {
@@ -530,12 +545,15 @@
     margin-top: 17px;
   }
 
+  .u-section-1 .u-btn-27 {
+    margin-top: 16px;
+  }
+
   .u-section-1 .u-text-2 {
-    margin-top: 61px;
+    margin-top: 19px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 96px;
-    margin-bottom: 28px;
+    margin-top: 77px;
   }
 }
