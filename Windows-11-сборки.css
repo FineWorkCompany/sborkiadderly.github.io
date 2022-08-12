@@ -345,21 +345,21 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-btn-1 {
-    margin-left: -46px;
-    margin-right: -46px;
+    margin-left: -61px;
+    margin-right: -61px;
     padding: 10px 7px;
   }
 
   .u-section-2 .u-btn-2 {
-    margin-left: -46px;
-    margin-right: -46px;
-    padding-right: 18px;
+    margin-left: -61px;
+    margin-right: -61px;
     padding-left: 18px;
+    padding-right: 18px;
   }
 
   .u-section-2 .u-btn-3 {
-    margin-left: -46px;
-    margin-right: -46px;
+    margin-left: -61px;
+    margin-right: -61px;
     padding-left: 27px;
     padding-right: 27px;
   }
