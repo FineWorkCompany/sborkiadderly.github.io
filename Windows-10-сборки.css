@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 6088px;
+  min-height: 5966px;
 }
 
 .u-section-1 .u-text-1 {
@@ -17,13 +17,13 @@
 
 .u-section-1 .u-image-1 {
   width: 900px;
-  height: 505px;
+  height: 506px;
   margin: 16px auto 0;
 }
 
 .u-section-1 .u-image-2 {
   width: 900px;
-  height: 505px;
+  height: 506px;
   margin: 16px auto 0;
 }
 
@@ -35,7 +35,7 @@
 
 .u-section-1 .u-image-4 {
   width: 900px;
-  height: 505px;
+  height: 507px;
   margin: 16px auto 0;
 }
 
@@ -111,68 +111,102 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 6200px;
+    min-height: 6093px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: 26px;
+    margin-top: 28px;
+    margin-right: 248px;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
+    margin-right: 282px;
   }
 
   .u-section-1 .u-image-1 {
     margin-top: 28px;
+    margin-right: 18px;
   }
 
   .u-section-1 .u-image-2 {
     margin-top: 20px;
+    margin-right: 18px;
   }
 
   .u-section-1 .u-image-3 {
     margin-top: 20px;
+    margin-right: 18px;
   }
 
   .u-section-1 .u-image-4 {
     margin-top: 20px;
+    margin-right: 18px;
   }
 
   .u-section-1 .u-text-3 {
     width: auto;
+    margin-right: -3px;
+    margin-left: 1px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 214px;
   }
 
   .u-section-1 .u-text-4 {
     width: auto;
+    margin-right: 283px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-right: 18px;
   }
 
   .u-section-1 .u-image-6 {
     margin-top: 20px;
+    margin-right: 18px;
+  }
+
+  .u-section-1 .u-image-7 {
+    margin-right: 18px;
   }
 
   .u-section-1 .u-image-8 {
     margin-top: 20px;
+    margin-right: 18px;
   }
 
   .u-section-1 .u-text-5 {
     width: auto;
-    margin-left: -2px;
-    margin-right: -2px;
+    margin-right: -4px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 227px;
   }
 
   .u-section-1 .u-text-6 {
     width: auto;
     margin-top: 88px;
+    margin-right: 401px;
   }
 
   .u-section-1 .u-btn-3 {
     margin-top: 63px;
+    margin-right: 360px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-right: 360px;
   }
 
   .u-section-1 .u-btn-5 {
     margin-top: -147px;
-    margin-bottom: 128px;
+    margin-right: 360px;
+    margin-bottom: 60px;
   }
 }
 
@@ -181,53 +215,99 @@
     min-height: 6488px;
   }
 
+  .u-section-1 .u-text-1 {
+    margin-right: 190px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 216px;
+  }
+
   .u-section-1 .u-image-1 {
     width: 720px;
-    height: 404px;
+    height: 405px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-2 {
     width: 720px;
-    height: 404px;
+    height: 405px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-3 {
     width: 720px;
     height: 404px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-4 {
     width: 720px;
-    height: 404px;
+    height: 406px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: -1px;
+    margin-right: -1px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-4 {
+    margin-right: 216px;
     margin-left: 233px;
   }
 
   .u-section-1 .u-image-5 {
     width: 720px;
     height: 404px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-6 {
     width: 720px;
     height: 404px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-7 {
     width: 720px;
     height: 404px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-8 {
     width: 720px;
     height: 404px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-5 {
     margin-left: -4px;
     margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 7px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 307px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 140px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-right: 140px;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-right: 140px;
   }
 }
 
@@ -237,35 +317,36 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 131px;
     margin-left: 44px;
     margin-right: 44px;
   }
 
+  .u-section-1 .u-text-2 {
+    margin-right: 162px;
+  }
+
   .u-section-1 .u-image-1 {
     width: 540px;
-    height: 303px;
-    margin-top: 857px;
+    height: 304px;
   }
 
   .u-section-1 .u-image-2 {
     width: 540px;
-    height: 303px;
-    margin-top: -623px;
+    height: 304px;
   }
 
   .u-section-1 .u-image-3 {
     width: 540px;
     height: 303px;
-    margin-top: 1732px;
   }
 
   .u-section-1 .u-image-4 {
     width: 540px;
-    height: 303px;
+    height: 305px;
   }
 
   .u-section-1 .u-text-4 {
+    margin-right: 162px;
     margin-left: 175px;
   }
 
@@ -284,7 +365,6 @@
   .u-section-1 .u-image-7 {
     width: 540px;
     height: 303px;
-    margin-right: 0;
   }
 
   .u-section-1 .u-image-8 {
@@ -297,6 +377,26 @@
   .u-section-1 .u-text-5 {
     margin-left: 0;
   }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 230px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 575px) {
@@ -305,7 +405,6 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 29px;
     margin-left: 29px;
     margin-right: 29px;
   }
@@ -318,34 +417,32 @@
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 191px;
-    margin-top: 746px;
   }
 
   .u-section-1 .u-image-2 {
     width: 340px;
     height: 191px;
-    margin-top: -400px;
   }
 
   .u-section-1 .u-image-3 {
     width: 340px;
     height: 191px;
-    margin-top: 1620px;
   }
 
   .u-section-1 .u-image-4 {
     width: 340px;
-    height: 191px;
+    height: 192px;
   }
 
   .u-section-1 .u-text-4 {
+    margin-right: 102px;
     margin-left: 110px;
   }
 
   .u-section-1 .u-image-5 {
     height: 191px;
     width: 100%;
-    margin-right: auto;
+    margin-right: 0;
     margin-left: auto;
   }
 
@@ -373,6 +470,10 @@
   .u-section-1 .u-btn-2 {
     margin-left: -1px;
     margin-right: -1px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 145px;
   }
 } .u-section-2 {
   background-image: none;
