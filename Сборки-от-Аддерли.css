@@ -35,7 +35,7 @@
 .u-section-1 .u-btn-4 {
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: -45px 100px 0 auto;
+  margin: -45px 98px 0 auto;
   padding: 10px 72px 10px 71px;
 }
 
@@ -1810,6 +1810,7 @@
 
   .u-section-5 .u-text-2 {
     width: 470px;
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -1819,7 +1820,7 @@
   }
 
   .u-section-5 .u-btn-22 {
-    margin: -941px -16px 60px auto;
+    margin: -961px -15px 60px auto;
     padding: 10px 72px 10px 71px;
   }
 }
@@ -1930,6 +1931,12 @@
     margin-left: auto;
   }
 
+  .u-section-5 .u-text-2 {
+    width: auto;
+    margin-left: -340px;
+    margin-right: -340px;
+  }
+
   .u-section-5 .u-btn-22 {
     margin-right: 0;
   }
@@ -1990,6 +1997,12 @@
 
   .u-section-5 .u-btn-21 {
     margin-top: -45px;
+  }
+
+  .u-section-5 .u-text-2 {
+    width: 470px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
