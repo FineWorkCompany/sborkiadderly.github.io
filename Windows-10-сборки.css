@@ -159,7 +159,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 6337px;
+    min-height: 7753px;
   }
 
   .u-section-1 .u-text-1 {
@@ -175,15 +175,16 @@
   }
 
   .u-section-1 .u-btn-2 {
-    margin-top: 75px;
+    margin-top: 6px;
   }
 
   .u-section-1 .u-btn-3 {
-    margin-top: -62px;
+    margin-top: 6px;
   }
 
   .u-section-1 .u-text-4 {
     width: auto;
+    margin-top: 121px;
   }
 
   .u-section-1 .u-text-5 {
@@ -205,13 +206,13 @@
   }
 
   .u-section-1 .u-btn-8 {
-    margin-bottom: 0;
+    margin-bottom: 18px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 3844px;
+    min-height: 6819px;
   }
 
   .u-section-1 .u-image-1 {
@@ -234,12 +235,8 @@
     width: 720px;
   }
 
-  .u-section-1 .u-btn-2 {
-    margin-top: -506px;
-  }
-
-  .u-section-1 .u-btn-3 {
-    margin-top: 519px;
+  .u-section-1 .u-text-4 {
+    margin-top: 122px;
   }
 
   .u-section-1 .u-image-5 {
@@ -280,7 +277,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2834px;
+    min-height: 6065px;
   }
 
   .u-section-1 .u-text-1 {
@@ -312,12 +309,8 @@
     width: auto;
   }
 
-  .u-section-1 .u-btn-2 {
-    margin-top: -912px;
-  }
-
-  .u-section-1 .u-btn-3 {
-    margin-top: 925px;
+  .u-section-1 .u-text-4 {
+    margin-top: 123px;
   }
 
   .u-section-1 .u-image-5 {
@@ -375,7 +368,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1705px;
+    min-height: 5916px;
   }
 
   .u-section-1 .u-text-1 {
@@ -421,16 +414,17 @@
   }
 
   .u-section-1 .u-btn-2 {
-    margin-top: -1172px;
+    margin-left: -84px;
+    margin-right: -84px;
   }
 
   .u-section-1 .u-btn-3 {
-    margin-top: 1185px;
     margin-left: -84px;
     margin-right: -84px;
   }
 
   .u-section-1 .u-text-4 {
+    margin-top: 124px;
     margin-left: 0;
     margin-right: 0;
   }
@@ -469,22 +463,22 @@
   .u-section-1 .u-image-8 {
     height: 190px;
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-9 {
     height: 190px;
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-10 {
     height: 190px;
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-btn-5 {
