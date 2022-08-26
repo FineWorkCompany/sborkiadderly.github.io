@@ -137,12 +137,14 @@
 .u-section-1 .u-btn-6 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   align-self: center;
+  background-image: none;
   margin: 45px auto 0;
 }
 
 .u-section-1 .u-btn-7 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   align-self: center;
+  background-image: none;
   margin: 9px auto 0;
   padding: 10px 43px 10px 42px;
 }
