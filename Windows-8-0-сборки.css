@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 3698px;
+  min-height: 3809px;
 }
 
 .u-section-1 .u-text-1 {
@@ -53,68 +53,64 @@
 .u-section-1 .u-btn-1 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   background-image: none;
+  align-self: center;
   margin: 47px auto 0;
 }
 
 .u-section-1 .u-btn-2 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 11px auto 0;
+  background-image: none;
+  align-self: center;
+  margin: 9px auto 0;
   padding: 10px 41px;
 }
 
-.u-section-1 .u-text-4 {
-  margin: 64px auto 0;
+.u-section-1 .u-btn-3 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  background-image: none;
+  align-self: center;
+  margin: 9px auto 0;
+  padding: 10px 43px 10px 42px;
 }
 
-.u-section-1 .u-btn-3 {
-  background-image: none;
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 0 auto;
-  padding: 10px 32px;
+.u-section-1 .u-text-4 {
+  margin: 114px auto 0;
 }
 
 .u-section-1 .u-btn-4 {
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 6px auto 0;
-  padding: 10px 30px;
+  align-self: center;
+  margin: 0 auto;
+  padding: 10px 32px;
 }
 
 .u-section-1 .u-btn-5 {
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 6px auto 28px;
+  align-self: center;
+  margin: 6px auto 0;
+  padding: 10px 30px;
+}
+
+.u-section-1 .u-btn-6 {
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 6px auto 37px;
   padding: 10px 37px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 3752px;
+    min-height: 3825px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: 29px;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
-  }
-
-  .u-section-1 .u-image-2 {
-    margin-top: 21px;
-  }
-
-  .u-section-1 .u-image-3 {
-    margin-top: 547px;
-  }
-
-  .u-section-1 .u-image-4 {
-    margin-top: -1031px;
-  }
-
-  .u-section-1 .u-image-5 {
-    margin-top: 547px;
   }
 
   .u-section-1 .u-text-3 {
@@ -127,14 +123,14 @@
     width: auto;
   }
 
-  .u-section-1 .u-btn-5 {
-    margin-bottom: 29px;
+  .u-section-1 .u-btn-6 {
+    margin-bottom: 28px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 3415px;
+    min-height: 2425px;
   }
 
   .u-section-1 .u-image-1 {
@@ -153,7 +149,6 @@
 
   .u-section-1 .u-image-3 {
     height: 405px;
-    margin-top: 21px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -161,7 +156,6 @@
 
   .u-section-1 .u-image-4 {
     height: 405px;
-    margin-top: 20px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -169,30 +163,20 @@
 
   .u-section-1 .u-image-5 {
     height: 404px;
-    margin-top: 21px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 21px;
     margin-left: 35px;
     margin-right: 35px;
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-top: 178px;
-  }
-
-  .u-section-1 .u-btn-5 {
-    margin-bottom: 47px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2967px;
+    min-height: 1920px;
   }
 
   .u-section-1 .u-text-1 {
@@ -235,35 +219,14 @@
     margin-left: 52px;
     margin-right: 52px;
   }
-
-  .u-section-1 .u-btn-1 {
-    align-self: center;
-  }
-
-  .u-section-1 .u-btn-2 {
-    align-self: center;
-  }
-
-  .u-section-1 .u-btn-3 {
-    align-self: center;
-  }
-
-  .u-section-1 .u-btn-4 {
-    align-self: center;
-  }
-
-  .u-section-1 .u-btn-5 {
-    margin-bottom: 29px;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2478px;
+    min-height: 1356px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 28px;
     margin-left: 25px;
     margin-right: 25px;
   }
@@ -299,11 +262,11 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 28px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 45px;
     margin-left: -53px;
     margin-right: -53px;
   }
@@ -313,11 +276,8 @@
     margin-right: -53px;
   }
 
-  .u-section-1 .u-text-4 {
-    margin-top: 123px;
-  }
-
-  .u-section-1 .u-btn-5 {
-    margin-bottom: 28px;
+  .u-section-1 .u-btn-3 {
+    margin-left: -53px;
+    margin-right: -53px;
   }
 }

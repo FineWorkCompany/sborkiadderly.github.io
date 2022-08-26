@@ -76,7 +76,7 @@
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 12px auto 0;
-  padding: 10px 53px;
+  padding: 10px 124px 10px 123px;
 }
 
 .u-section-1 .u-text-4 {
@@ -190,6 +190,7 @@
   .u-section-1 .u-image-4 {
     width: 655px;
     margin-top: 20px;
+    margin-right: auto;
   }
 }
 
