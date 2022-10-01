@@ -134,9 +134,7 @@
 }
 
 .u-section-1 .u-text-6 {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 0;
+  margin: 143px auto 0;
 }
 
 .u-section-1 .u-btn-9 {
@@ -156,7 +154,7 @@
 .u-section-1 .u-btn-11 {
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 6px auto 40px;
+  margin: 6px auto 60px;
   padding: 10px 37px;
 }
 
@@ -220,10 +218,6 @@
 
   .u-section-1 .u-btn-10 {
     align-self: center;
-  }
-
-  .u-section-1 .u-btn-11 {
-    margin-bottom: 60px;
   }
 }
 
