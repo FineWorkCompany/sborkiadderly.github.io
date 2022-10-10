@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 6888px;
+  min-height: 6903px;
 }
 
 .u-section-1 .u-text-1 {
@@ -82,8 +82,17 @@
   padding: 10px 60px;
 }
 
+.u-section-1 .u-btn-4 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  background-image: none;
+  align-self: center;
+  margin: 9px auto 0;
+  padding: 10px 63px 10px 62px;
+}
+
 .u-section-1 .u-text-4 {
-  margin: 112px auto 0;
+  width: 396px;
+  margin: 115px auto 0;
 }
 
 .u-section-1 .u-image-7 {
@@ -108,7 +117,7 @@
   margin: 28px -398px 0;
 }
 
-.u-section-1 .u-btn-4 {
+.u-section-1 .u-btn-5 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   background-image: none;
   align-self: center;
@@ -116,7 +125,7 @@
   padding: 10px 47px;
 }
 
-.u-section-1 .u-btn-5 {
+.u-section-1 .u-btn-6 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   background-image: none;
   align-self: center;
@@ -124,7 +133,7 @@
   padding: 10px 58px;
 }
 
-.u-section-1 .u-btn-6 {
+.u-section-1 .u-btn-7 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   background-image: none;
   align-self: center;
@@ -136,14 +145,14 @@
   margin: 61px auto 0;
 }
 
-.u-section-1 .u-btn-7 {
+.u-section-1 .u-btn-8 {
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   align-self: center;
   margin: 0 auto;
 }
 
-.u-section-1 .u-btn-8 {
+.u-section-1 .u-btn-9 {
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   align-self: center;
@@ -151,16 +160,16 @@
   padding: 10px 30px;
 }
 
-.u-section-1 .u-btn-9 {
+.u-section-1 .u-btn-10 {
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 6px auto 28px;
+  margin: 6px auto 60px;
   padding: 10px 32px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 5680px;
+    min-height: 5692px;
   }
 
   .u-section-1 .u-text-1 {
@@ -194,7 +203,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 3435px;
+    min-height: 5975px;
   }
 
   .u-section-1 .u-image-1 {
@@ -244,6 +253,10 @@
     margin-right: 43px;
   }
 
+  .u-section-1 .u-text-4 {
+    margin-top: 87px;
+  }
+
   .u-section-1 .u-image-7 {
     width: 720px;
     height: 405px;
@@ -264,11 +277,20 @@
     margin-left: 0;
     margin-right: 0;
   }
+
+  .u-section-1 .u-btn-10 {
+    margin-bottom: 0;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2523px;
+    min-height: 5163px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-1 {
@@ -301,6 +323,11 @@
     height: 304px;
   }
 
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .u-section-1 .u-image-7 {
     width: 540px;
     height: 304px;
@@ -316,12 +343,17 @@
     height: 311px;
   }
 
-  .u-section-1 .u-btn-4 {
-    margin-left: -1px;
-    margin-right: -1px;
+  .u-section-1 .u-btn-5 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
-  .u-section-1 .u-btn-5 {
+  .u-section-1 .u-btn-6 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-7 {
     margin-left: -1px;
     margin-right: -1px;
   }
@@ -329,7 +361,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1506px;
+    min-height: 4597px;
   }
 
   .u-section-1 .u-text-2 {
@@ -406,9 +438,11 @@
     padding-left: 38px;
   }
 
-  .u-section-1 .u-text-4 {
-    margin-left: 0;
-    margin-right: 0;
+  .u-section-1 .u-btn-4 {
+    margin-left: -73px;
+    margin-right: -73px;
+    padding-left: 41px;
+    padding-right: 41px;
   }
 
   .u-section-1 .u-image-7 {
@@ -432,23 +466,23 @@
     width: auto;
   }
 
-  .u-section-1 .u-btn-4 {
-    margin-left: -69px;
-    margin-right: -69px;
+  .u-section-1 .u-btn-5 {
+    margin-left: -68px;
+    margin-right: -68px;
     padding-left: 15px;
     padding-right: 15px;
   }
 
-  .u-section-1 .u-btn-5 {
+  .u-section-1 .u-btn-6 {
     margin-left: -71px;
     margin-right: -71px;
     padding-left: 28px;
     padding-right: 28px;
   }
 
-  .u-section-1 .u-btn-6 {
-    margin-left: -100px;
-    margin-right: -100px;
+  .u-section-1 .u-btn-7 {
+    margin-left: -71px;
+    margin-right: -71px;
     padding-left: 30px;
     padding-right: 30px;
   }
