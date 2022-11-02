@@ -818,12 +818,12 @@
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 148px;
+    min-height: 233px;
   }
 
   .u-section-2 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
@@ -847,11 +847,6 @@
 
   .u-section-2 .u-layout-cell-2 {
     min-height: 156px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
   }
 }
 
