@@ -60,7 +60,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 632px;
+    min-height: 750px;
   }
 
   .u-section-1 .u-text-1 {
@@ -72,7 +72,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 474px;
+    min-height: 50vw;
   }
 
   .u-section-1 .u-text-1 {
@@ -88,6 +88,6 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 298px;
+    min-height: 737px;
   }
 }

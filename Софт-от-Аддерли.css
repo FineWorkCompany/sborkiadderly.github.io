@@ -546,8 +546,7 @@
 
 .u-section-2 .u-text-1 {
   font-weight: 700;
-  width: auto;
-  margin: 32px -76px 0 -86px;
+  margin: 0;
 }
 
 .u-section-2 .u-btn-1 {
@@ -663,13 +662,11 @@
 }
 
 .u-section-2 .u-text-2 {
-  width: auto;
-  margin: 93px 5px 0 -5px;
+  margin: 0;
 }
 
 .u-section-2 .u-text-3 {
-  width: auto;
-  margin: 382px -76px 60px -86px;
+  margin: 0 0 60px;
 }
 
 @media (max-width: 1199px) {
@@ -678,9 +675,8 @@
   }
 
   .u-section-2 .u-text-1 {
+    width: auto;
     margin-top: 35px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-2 .u-btn-1 {
@@ -824,11 +820,11 @@
   }
 
   .u-section-2 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
+    width: auto;
   }
 
   .u-section-2 .u-text-3 {
+    width: auto;
     margin-left: -81px;
     margin-right: -81px;
   }
@@ -847,7 +843,6 @@
   .u-section-2 .u-btn-2 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-3 {
@@ -857,7 +852,6 @@
   .u-section-2 .u-btn-4 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-5 {
@@ -867,13 +861,11 @@
   .u-section-2 .u-btn-6 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-7 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-8 {
@@ -883,13 +875,11 @@
   .u-section-2 .u-btn-9 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-10 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-11 {
@@ -899,13 +889,11 @@
   .u-section-2 .u-btn-12 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-13 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-14 {
@@ -915,13 +903,11 @@
   .u-section-2 .u-btn-15 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-16 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-17 {
@@ -931,13 +917,11 @@
   .u-section-2 .u-btn-18 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-19 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-20 {
@@ -947,13 +931,11 @@
   .u-section-2 .u-btn-21 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-22 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-23 {
@@ -963,19 +945,16 @@
   .u-section-2 .u-btn-24 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-25 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-26 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-27 {
@@ -985,7 +964,6 @@
   .u-section-2 .u-btn-28 {
     margin-top: 20px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-text-2 {
@@ -1007,92 +985,74 @@
 
   .u-section-2 .u-btn-2 {
     margin-top: -70px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-4 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-6 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-7 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-9 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-10 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-12 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-13 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-15 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-16 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-18 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-19 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-21 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-22 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-24 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-25 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-26 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-28 {
     margin-top: -45px;
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-text-2 {
@@ -1131,7 +1091,6 @@
 
 .u-section-3 .u-text-1 {
   font-weight: 700;
-  width: auto;
   margin: 0;
 }
 
@@ -1248,13 +1207,27 @@
 }
 
 .u-section-3 .u-text-2 {
-  width: auto;
-  margin: 93px 0 0;
+  margin: 0;
 }
 
 .u-section-3 .u-text-3 {
-  width: auto;
-  margin: 382px -191px 60px;
+  margin: 0 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    width: auto;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+  }
+
+  .u-section-3 .u-text-3 {
+    width: auto;
+    margin-left: -191px;
+    margin-right: -191px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -1418,24 +1391,36 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 2575px;
+  }
+
   .u-section-3 .u-btn-1 {
-    margin-left: -56px;
-    margin-right: -56px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 37px;
+    padding-left: 35px;
   }
 
   .u-section-3 .u-btn-2 {
-    margin-left: -56px;
-    margin-right: -56px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 37px;
+    padding-left: 35px;
   }
 
   .u-section-3 .u-btn-4 {
-    margin-left: -56px;
-    margin-right: -56px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 84px;
+    padding-left: 82px;
   }
 
   .u-section-3 .u-btn-10 {
-    margin-left: -11px;
-    margin-right: -11px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 125px;
+    padding-right: 125px;
   }
 
   .u-section-3 .u-btn-15 {
@@ -1444,7 +1429,9 @@
   }
 
   .u-section-3 .u-btn-27 {
-    margin-left: -26px;
-    margin-right: -26px;
+    margin-left: -1px;
+    margin-right: -1px;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
