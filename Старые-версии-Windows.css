@@ -75,13 +75,13 @@
 .u-section-1 .u-btn-10 {
   background-image: none;
   margin: -45px auto 0 217px;
-  padding: 10px 41px 10px 39px;
+  padding: 10px 35px;
 }
 
 .u-section-1 .u-btn-11 {
   background-image: none;
-  margin: 12px auto 0 651px;
-  padding: 10px 41px 10px 39px;
+  margin: 12px 216px 0 auto;
+  padding: 10px 36px 10px 35px;
 }
 
 .u-section-1 .u-btn-12 {
@@ -172,6 +172,7 @@
   }
 
   .u-section-1 .u-btn-11 {
+    margin-right: 16px;
     margin-left: 517px;
   }
 
@@ -267,6 +268,7 @@
 
   .u-section-1 .u-btn-11 {
     margin-top: -204px;
+    margin-right: 0;
     margin-left: 272px;
   }
 
@@ -431,7 +433,7 @@
   }
 
   .u-section-1 .u-btn-11 {
-    margin-left: 0;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-12 {
@@ -491,8 +493,7 @@
 }
 
 .u-section-2 .u-text-2 {
-  width: auto;
-  margin: 22px 299px 0 auto;
+  margin: 0;
 }
 
 .u-section-2 .u-btn-8 {
@@ -529,6 +530,13 @@
 
 .u-section-2 .u-btn-16 {
   background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-right: 299px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -569,7 +577,7 @@
 
   .u-section-2 .u-text-2 {
     margin-top: 43px;
-    margin-right: auto;
+    margin-right: 0;
   }
 
   .u-section-2 .u-btn-8 {
