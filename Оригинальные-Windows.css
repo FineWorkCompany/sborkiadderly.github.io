@@ -190,3 +190,9 @@
     width: auto;
   }
 }
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    margin-top: 64px;
+  }
+}
