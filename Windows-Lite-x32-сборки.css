@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 7168px;
+  min-height: 6866px;
 }
 
 .u-section-1 .u-text-1 {
@@ -39,24 +39,10 @@
   margin: 20px auto 0;
 }
 
-.u-section-1 .u-btn-2 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  background-image: none;
-  margin: 9px auto 0;
-  padding: 10px 41px;
-}
-
-.u-section-1 .u-btn-3 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  background-image: none;
-  margin: 9px auto 0;
-  padding: 10px 43px 10px 42px;
-}
-
 .u-section-1 .u-text-4 {
   background-image: none;
   width: 473px;
-  margin: 103px auto 0;
+  margin: 89px auto 0;
 }
 
 .u-section-1 .u-image-3 {
@@ -75,30 +61,16 @@
   margin: 45px auto 0;
 }
 
-.u-section-1 .u-btn-4 {
+.u-section-1 .u-btn-2 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   background-image: none;
   margin: 70px auto 0;
 }
 
-.u-section-1 .u-btn-5 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  background-image: none;
-  margin: 9px auto 0;
-  padding: 10px 41px;
-}
-
-.u-section-1 .u-btn-6 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  background-image: none;
-  margin: 9px auto 0;
-  padding: 10px 43px 10px 42px;
-}
-
 .u-section-1 .u-text-6 {
   background-image: none;
   width: 398px;
-  margin: 126px auto 0;
+  margin: 89px auto 0;
 }
 
 .u-section-1 .u-image-5 {
@@ -142,34 +114,21 @@
   margin: 28px auto 0;
 }
 
-.u-section-1 .u-btn-7 {
+.u-section-1 .u-btn-3 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   background-image: none;
   margin: 45px auto 0;
 }
 
-.u-section-1 .u-btn-8 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  background-image: none;
-  margin: 9px auto 0;
-  padding: 10px 41px;
-}
-
-.u-section-1 .u-btn-9 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  background-image: none;
-  margin: 9px auto 0;
-  padding: 10px 43px 10px 42px;
-}
-
 .u-section-1 .u-text-8 {
-  margin: 65px auto 0;
+  width: 134px;
+  margin: 89px auto 0;
 }
 
-.u-section-1 .u-btn-10 {
+.u-section-1 .u-btn-4 {
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 0 auto 45px;
+  margin: 0 auto 44px;
   padding: 10px 44px 10px 43px;
 }
 
@@ -193,22 +152,14 @@
     margin-right: 58px;
   }
 
-  .u-section-1 .u-text-4 {
-    margin-top: 105px;
-  }
-
   .u-section-1 .u-text-5 {
     width: auto;
     margin-left: 58px;
     margin-right: 58px;
   }
 
-  .u-section-1 .u-btn-4 {
+  .u-section-1 .u-btn-2 {
     margin-top: 45px;
-  }
-
-  .u-section-1 .u-text-6 {
-    margin-top: 117px;
   }
 
   .u-section-1 .u-image-5 {
@@ -246,10 +197,9 @@
 
   .u-section-1 .u-text-8 {
     width: auto;
-    margin-top: 70px;
   }
 
-  .u-section-1 .u-btn-10 {
+  .u-section-1 .u-btn-4 {
     margin-bottom: 60px;
   }
 }
@@ -294,10 +244,6 @@
     margin-top: 45px;
   }
 
-  .u-section-1 .u-text-4 {
-    margin-top: 118px;
-  }
-
   .u-section-1 .u-image-3 {
     height: 405px;
     margin-right: initial;
@@ -320,7 +266,6 @@
 
   .u-section-1 .u-text-6 {
     width: auto;
-    margin-top: 118px;
     margin-left: 0;
     margin-right: 0;
   }
@@ -371,16 +316,8 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-btn-8 {
-    margin-top: 10px;
-  }
-
-  .u-section-1 .u-btn-9 {
-    margin-top: 10px;
-  }
-
   .u-section-1 .u-text-8 {
-    margin-top: 45px;
+    margin-top: 10px;
   }
 }
 
@@ -425,17 +362,8 @@
     align-self: center;
   }
 
-  .u-section-1 .u-btn-2 {
-    align-self: center;
-  }
-
-  .u-section-1 .u-btn-3 {
-    align-self: center;
-  }
-
   .u-section-1 .u-text-4 {
     width: auto;
-    margin-top: 116px;
     margin-left: 39px;
     margin-right: 39px;
   }
@@ -456,20 +384,8 @@
     margin-left: initial;
   }
 
-  .u-section-1 .u-btn-4 {
+  .u-section-1 .u-btn-2 {
     align-self: center;
-  }
-
-  .u-section-1 .u-btn-5 {
-    align-self: center;
-  }
-
-  .u-section-1 .u-btn-6 {
-    align-self: center;
-  }
-
-  .u-section-1 .u-text-6 {
-    margin-top: 115px;
   }
 
   .u-section-1 .u-image-5 {
@@ -500,15 +416,7 @@
     margin-right: -1px;
   }
 
-  .u-section-1 .u-btn-7 {
-    align-self: center;
-  }
-
-  .u-section-1 .u-btn-8 {
-    align-self: center;
-  }
-
-  .u-section-1 .u-btn-9 {
+  .u-section-1 .u-btn-3 {
     align-self: center;
   }
 }
@@ -548,16 +456,6 @@
     margin-right: -72px;
   }
 
-  .u-section-1 .u-btn-2 {
-    margin-left: -72px;
-    margin-right: -72px;
-  }
-
-  .u-section-1 .u-btn-3 {
-    margin-left: -72px;
-    margin-right: -72px;
-  }
-
   .u-section-1 .u-text-4 {
     margin-left: 0;
     margin-right: 0;
@@ -582,17 +480,7 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-btn-4 {
-    margin-left: -92px;
-    margin-right: -92px;
-  }
-
-  .u-section-1 .u-btn-5 {
-    margin-left: -92px;
-    margin-right: -92px;
-  }
-
-  .u-section-1 .u-btn-6 {
+  .u-section-1 .u-btn-2 {
     margin-left: -92px;
     margin-right: -92px;
   }
@@ -647,23 +535,13 @@
     margin-right: -9px;
   }
 
-  .u-section-1 .u-btn-7 {
+  .u-section-1 .u-btn-3 {
     margin-left: -68px;
     margin-right: -68px;
   }
 
-  .u-section-1 .u-btn-8 {
-    margin-left: -68px;
-    margin-right: -68px;
-  }
-
-  .u-section-1 .u-btn-9 {
-    margin-left: -68px;
-    margin-right: -68px;
-  }
-
-  .u-section-1 .u-btn-10 {
-    margin-bottom: 45px;
+  .u-section-1 .u-btn-4 {
+    margin-bottom: 44px;
   }
 } .u-section-2 {
   background-image: none;
