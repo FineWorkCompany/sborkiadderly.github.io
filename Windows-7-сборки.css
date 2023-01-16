@@ -59,11 +59,10 @@
 }
 
 .u-section-1 .u-btn-1 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  background-image: none;
   align-self: center;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 45px auto 0;
-  padding: 10px 8px;
+  padding: 10px 103px 10px 102px;
 }
 
 .u-section-1 .u-btn-2 {
