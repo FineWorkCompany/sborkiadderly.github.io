@@ -303,7 +303,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 3118px;
+  min-height: 3276px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -528,14 +528,120 @@
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   font-size: 1rem;
-  margin: 10px auto 60px;
+  margin: 10px auto 0;
+}
+
+.u-section-2 .u-text-5 {
+  margin: 87px 0 0;
+}
+
+.u-section-2 .u-countdown-1 {
+  --animation-custom_in-translate_x: -400px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 1;
+  margin: 19px auto 60px;
+  padding: 26px 36px;
+}
+
+.u-section-2 .u-countdown-counter-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-label-1 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-2 .u-countdown-separator-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-counter-2 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-label-2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-2 .u-countdown-separator-2 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-counter-3 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-label-3 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-2 .u-countdown-separator-3 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-counter-4 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-label-4 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-2 .u-countdown-separator-4 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-counter-5 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-label-5 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-2 .u-countdown-separator-5 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-counter-6 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-2 .u-countdown-label-6 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
 }
 
 @media (max-width: 1199px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 3095px;
-  }
-
   .u-section-2 .u-btn-1 {
     margin-left: -279px;
     margin-right: 1220px;
@@ -670,10 +776,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 3050px;
-  }
-
   .u-section-2 .u-btn-1 {
     margin: -393px 1070px 0 -350px;
   }
@@ -775,17 +877,9 @@
   .u-section-2 .u-btn-21 {
     margin-left: 337px;
   }
-
-  .u-section-2 .u-btn-22 {
-    margin-bottom: 0;
-  }
 }
 
 @media (max-width: 767px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 2845px;
-  }
-
   .u-section-2 .u-btn-1 {
     font-size: 0.875rem;
     margin-top: 602px;
@@ -948,10 +1042,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 2709px;
-  }
-
   .u-section-2 .u-btn-1 {
     margin-top: 434px;
   }
